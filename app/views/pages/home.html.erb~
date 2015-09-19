@@ -1,0 +1,40 @@
+
+<h1>The best Movies are here !</h1>
+<p>Choose the type of movie you like to download :</p>
+
+
+
+
+
+    <div class="header">
+      <div class="container">
+        <ul class="nav">
+        <li><a href="action.html">Action</a></li>
+        <li><a href="#">Adventure</a></li>
+        <li><a href="#">Drama</a></li>
+        <li><a href="#">Romance</a></li>
+		<li><a href="#">Science fiction</a></li>
+		<li><a href="#">Animation</a></li>
+		<li><a href="#">Horror</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jumbotron">
+      <div class="container">
+
+      </div>
+    </div>
+	
+	    <div class="nav1">
+      <div class="container1">
+          <ul>
+             <li><a href="registration.html">Register</a></li>
+            <li><a href="">Schedule</a></li>
+            <li><a href="">Sponsor</a></li>
+            <li><a href="">About</a></li>
+            <li><a href="about.html">Contact</a></li>
+          </ul>
+      </div>
+    </div>
+	

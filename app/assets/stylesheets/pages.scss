@@ -1,0 +1,176 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+    font: 13px tahoma;
+    color: #989898;
+    background: url(http://1.bp.blogspot.com/-l2z8V-eDRZs/URZj2JsTQPI/AAAAAAAADUw/2hu5tsz98y4/s1600/png.png);
+    line-height: 24px;
+}
+
+
+
+p1{
+    color: #fff;
+    background-color: #8AC007;
+    border: none;
+    display: inline-block;
+    outline: 0;
+    padding: 10px 32px;
+	font-family:'Raleway', sans-serif;
+	font-weight:600;
+	font-size:12px;
+    vertical-align: middle;
+    text-decoration: none !important;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+
+.container {
+  width: 9940px;
+  margin: 0 auto;
+}
+
+.header {
+    background-color: #8AC007;
+}
+
+
+
+li {
+	color:#fff;
+	display:inline;
+	padding: 6px 16px;
+	font-family:'Raleway', sans-serif;
+	font-weight:600;
+	font-size:12px;
+	margin-right:5px;
+	text-transform:uppercase
+	
+	}
+.nav a {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.jumbotron {
+  height: 800px;
+  background-image: url(http://drop.ndtv.com/albums/ENTERTAINMENT/50-action-movies/1.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.nav ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 15px;
+  text-align: center;
+}
+
+
+.nav1 {
+    background-color: black;
+    height: 50px;
+}
+
+.container1 {
+  margin: 0 auto;
+  width: 940px;
+}
+
+.nav1 ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 15px;
+  text-align: center;
+}
+
+.nav1 li {
+    display: inline;
+    padding: 40px;
+}
+
+.nav1 a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.form-control {
+    width: 50%;
+}
+
+.btn {
+    background-color: #296152;
+    border: 1px solid #296152;
+    color: #fff;
+    margin-top: 15px;
+}
+
+
+
+table, th, td {
+    border: 1px solid green;
+	border-collapse: collapse;
+	vertical-align: top;
+	
+	}
+	
+th{
+    padding: 1px;
+	background-color: #330000;
+	color: white;
+	font-family:'Raleway', sans-serif;
+	font-weight:600;
+	font-size:18px;
+}
+
+
+li2 {
+	color:#fff;
+	vertical-align: middle;
+	font-family:'Raleway', sans-serif;
+	font-weight:600;
+	font-size:12px;
+	text-transform:uppercase
+	
+	
+	
+	}
+	
+	.nav2 {
+    background-color: black;
+    height: 25px;
+}
+	
+
+text1 {
+	color:#330000;
+	display:inline;
+	padding: 6px 16px;
+	font-family:'Raleway', sans-serif;
+	font-weight:600;
+	font-size:64px;
+	margin-right:5px;
+	
+	}
+	
+	text2 {
+	color:#330000;
+	display:inline;
+	padding: 6px 16px;
+	font-family:'Raleway', sans-serif;
+	font-weight:600;
+	font-size:30px;
+	margin-right:5px;
+	
+	}
